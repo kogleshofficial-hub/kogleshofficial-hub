@@ -1,124 +1,120 @@
-# Koglesh R. Murugan 👋
+# Koglesh R. Murugan
 
-### I build things. I learn in public. I take the next step.
+### Developer · AI builder · Designer · Content creator
 
-I'm **Koglesh** — a developer, designer, and content creator from Malaysia, exploring the intersection of **software, AI, design, and creativity**.
+I build practical digital products while learning in public — with a focus on **web development, AI, product design, and creative work**.
 
-I don't want to just learn technology.
-
-**I want to turn what I learn into things people can actually use.**
+> **Build something useful. Learn from it. Take the next step.**
 
 ---
 
-## ⚡ What I'm building
+## 🚀 Featured work
 
-| Project | What it is | Status |
+| Project | What it does | Status |
 | --- | --- | --- |
-| 🧠 **One Next Step** | An AI tool that turns uncertainty into one actionable next move | 🚀 Live |
-| 🌐 **Koglesh Portfolio** | My personal hub for projects, experiments, and creative work | 🚀 Live |
-| 🎬 **AERO** | My challenge-based content journey | ▶️ Creating |
+| 🧠 **[One Next Step](https://one-next-step.vercel.app)** | Turns uncertainty into one clear, actionable next move | **Live** |
+| 🔎 **[Truth Checker](https://truth-checker-app.vercel.app)** | Investigates claims using web evidence + AI analysis | **Live** |
+| 🌐 **[Koglesh Portfolio](https://koglesh-portfolio.vercel.app)** | Personal portfolio and project hub | **Live** |
+| 🎬 **AERO** | Challenge-based content and creative experiments | **Creating** |
 
 ### 🧠 One Next Step
 
-> **You don't need the whole plan. You need the next move.**
+A focused AI decision experience built around a simple idea: when someone is stuck, more information is not always better. Sometimes the most useful answer is **one clear action**.
 
-One Next Step is an AI decision tool built around a simple idea: when someone is stuck, giving them more information isn't always the answer.
+**[Try One Next Step →](https://one-next-step.vercel.app)** · **[View source →](https://github.com/kogleshofficial-hub/one-next-step)**
 
-Sometimes they just need **one clear action**.
+### 🔎 Truth Checker
 
-**[→ Try One Next Step](https://one-next-step.vercel.app)**
+An evidence-first claim investigation tool. It searches the web, gathers relevant evidence, and uses AI to turn the findings into an understandable verdict, confidence level, reasoning, context, and source list.
 
-**[→ Read the source](https://github.com/kogleshofficial-hub/one-next-step)**
+The product is designed around a simple principle:
+
+> **Evidence before certainty.**
+
+**[Try Truth Checker →](https://truth-checker-app.vercel.app)** · **[View source →](https://github.com/kogleshofficial-hub/truth-checker)**
 
 ---
 
-## 🛠️ My current stack
+## 🛠️ What I work with
 
-**Development**
+**Web**
 
 `Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS`
 
 **AI**
 
-`Hugging Face` · `AI APIs` · `Structured outputs` · `Prompt design`
+`AI APIs` · `Structured outputs` · `Prompt design` · `Evidence retrieval` · `AI product design`
 
-**Tools & Platform**
+**Tools**
 
 `GitHub` · `Vercel` · `Canva` · `CapCut`
 
-I'm constantly adding to this list by building, breaking, fixing, and learning.
-
 ---
 
-## 🧩 How I think about building
+## 🧩 My build loop
 
 ```text
 IDEA
- ↓
+  ↓
 BUILD
- ↓
+  ↓
+TEST
+  ↓
 BREAK
- ↓
+  ↓
 LEARN
- ↓
+  ↓
 IMPROVE
- ↓
+  ↓
 SHIP
- ↓
+  ↓
 REPEAT
 ```
 
-I care less about having a perfect idea and more about **actually making the idea real**.
-
-Every project is an experiment.
-Every bug is feedback.
-Every finished build is another step forward.
+I prefer real projects over collecting tutorials. Every shipped project is a chance to improve my engineering, design, product thinking, and communication.
 
 ---
 
-## 📈 Currently
+## 📌 Currently
 
-- 💻 Building web projects with modern React/Next.js
-- 🤖 Exploring practical AI products
-- 🎨 Improving UI, UX, and visual design
-- 🧪 Experimenting with new ideas and technologies
-- 🎬 Creating challenge-based content through AERO
-- 🌱 Building a portfolio through real projects rather than just tutorials
+- 💻 Building modern web applications with Next.js and TypeScript
+- 🤖 Exploring practical AI products and reliable AI workflows
+- 🔎 Learning how evidence retrieval can make AI outputs more trustworthy
+- 🎨 Improving UI/UX and visual design
+- 🧪 Testing ideas by turning them into working products
+- 🎬 Developing AERO as a creative challenge-based content project
+- 🌱 Building a portfolio around real, usable work
 
 ---
 
 ## 🎬 AERO
 
-AERO is my creative side — a challenge-based YouTube journey where I test myself by learning and attempting things over a set period of time.
+AERO is my creative side: a challenge-based content journey where I learn, attempt, test, and document new things over a defined period of time.
 
-**[→ Watch AERO on YouTube](https://www.youtube.com/@ItsAero_Official)**
-
----
-
-## 🌐 Find my work
-
-**Portfolio** → https://koglesh-portfolio.vercel.app/
-
-**GitHub** → https://github.com/kogleshofficial-hub
-
-**YouTube / AERO** → https://www.youtube.com/@ItsAero_Official
-
-**Email** → koglesh.official@gmail.com
+**[Watch AERO →](https://www.youtube.com/@ItsAero_Official)**
 
 ---
 
-## 🧭 The bigger goal
+## 🌐 Find me
 
-I'm not trying to look like I have everything figured out.
+**Portfolio:** https://koglesh-portfolio.vercel.app/
 
-I'm building while I learn.
+**GitHub:** https://github.com/kogleshofficial-hub
 
-The goal is simple:
+**YouTube / AERO:** https://www.youtube.com/@ItsAero_Official
+
+**Email:** koglesh.official@gmail.com
+
+---
+
+## 🎯 The bigger goal
+
+I'm building while I learn — not waiting until I know everything before I start.
+
+I want my portfolio to show more than a list of technologies. I want it to show **curiosity, execution, iteration, and useful products**.
 
 > **Make useful things. Keep learning. Keep creating. Keep moving.**
 
 ### One next step is still progress. 🚀
 
----
-
-<sub>Built with curiosity, persistence, and a lot of experiments.</sub>
+<sub>Built with curiosity, persistence, and a lot of iteration.</sub>

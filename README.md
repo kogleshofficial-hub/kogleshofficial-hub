@@ -1,17 +1,31 @@
 # Koglesh R. Murugan 👋
 
-### Developer · AI builder · Product creator · Designer · Content creator
+### Full-Stack Web Developer · AI Builder · Product Creator · Designer
 
-I build **real, usable digital products** around problems I find interesting — combining web development, AI, product thinking, design, and experimentation.
+I build **real, usable digital products for real-world problems** — from idea and interface design to databases, security, deployment, and iteration.
 
-> **Think of a problem. Build the solution. Test it. Improve it. Ship it.**
+> **Find a problem. Build the solution. Test it with real use. Improve it. Ship it.**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌍 FoodLoop — Surplus Food Rescue
-A production web app designed to connect people who have surplus food with people who can use it. FoodLoop uses real authentication, a real database, real listings, and real donor/request workflows rather than simulated demo data.
+### 🌍 QueueWise — Know the queue before you go
+
+**Community-powered, real-time queue information for real-world services.** QueueWise lets people discover places through OpenStreetMap, view fresh community reports, and share the situation they can genuinely observe — including crowd level, estimated wait, people ahead, and notes.
+
+The system is built around a simple rule: **no invented queue numbers.** Reports are timestamped, recent observations drive estimates, and older information fades out.
+
+**Live:** https://queuewise-app.vercel.app/  
+**Source:** https://github.com/kogleshofficial-hub/queuewise
+
+**Built with:** `Next.js` · `React` · `TypeScript` · `Supabase` · `PostgreSQL` · `OpenStreetMap` · `Vercel`
+
+---
+
+### 🍽️ FoodLoop — Surplus Food Rescue
+
+A production web app designed to help connect surplus food with people who can use it. Built around real authentication, database-backed listings, and donor/request workflows rather than simulated demo data.
 
 **Live:** https://food-loop-app.vercel.app/  
 **Source:** https://github.com/kogleshofficial-hub/FoodLoop
@@ -21,7 +35,8 @@ A production web app designed to connect people who have surplus food with peopl
 ---
 
 ### 🧠 One Next Step
-A focused decision-support experience built around one simple principle: when someone is stuck, more information is not always better. The product turns a situation into **one clear next action**.
+
+A decision-support experience built around one simple principle: when someone is stuck, more information is not always better. The product turns a situation into **one clear next action**.
 
 **Live:** https://one-next-step.vercel.app/  
 **Source:** https://github.com/kogleshofficial-hub/one-next-step
@@ -29,6 +44,7 @@ A focused decision-support experience built around one simple principle: when so
 ---
 
 ### 🔎 Truth Checker
+
 An evidence-first claim investigation tool designed to combine evidence retrieval with AI analysis and present a verdict, confidence, reasoning, context, and sources.
 
 **Live:** https://truth-checker-app.vercel.app/  
@@ -37,7 +53,8 @@ An evidence-first claim investigation tool designed to combine evidence retrieva
 ---
 
 ### 🌐 Portfolio
-My personal portfolio for showcasing software projects, AI experiments, design work, and creative projects.
+
+My personal portfolio showcasing software projects, AI experiments, design work, and creative projects.
 
 **Live:** https://koglesh-portfolio.vercel.app/  
 **Source:** https://github.com/kogleshofficial-hub/koglesh-portfolio
@@ -45,6 +62,7 @@ My personal portfolio for showcasing software projects, AI experiments, design w
 ---
 
 ### 🎬 AERO
+
 A creative challenge project focused on learning by doing, experimentation, storytelling, editing, and documenting progress.
 
 **YouTube:** https://www.youtube.com/@ItsAero_Official
@@ -53,17 +71,17 @@ A creative challenge project focused on learning by doing, experimentation, stor
 
 ## 🛠️ What I Build
 
-- Modern full-stack web applications
+- Full-stack web applications
 - AI-powered product experiences
 - Practical tools for real-world problems
-- Clean, responsive interfaces
+- Clean, responsive user interfaces
 - Evidence-aware AI workflows
-- Product experiments from idea to deployment
-- Creative digital projects
+- Secure database-backed applications
+- Products from idea → prototype → deployment
 
 ## ⚡ Core Stack
 
-**Frontend & Web**  
+**Frontend**  
 `Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS`
 
 **Backend & Data**  
@@ -73,44 +91,45 @@ A creative challenge project focused on learning by doing, experimentation, stor
 `AI APIs` · `Structured outputs` · `Prompt design` · `Evidence retrieval` · `AI product design`
 
 **Deployment & Tools**  
-`GitHub` · `Vercel` · `Canva` · `CapCut`
+`GitHub` · `Vercel` · `OpenStreetMap` · `Canva` · `CapCut`
 
 ---
 
-## 🔁 My Build Loop
+## 🔁 How I Build
 
 ```text
+PROBLEM
+   ↓
 IDEA
-  ↓
+   ↓
 BUILD
-  ↓
+   ↓
 TEST
-  ↓
+   ↓
 BREAK
-  ↓
+   ↓
 LEARN
-  ↓
+   ↓
 IMPROVE
-  ↓
+   ↓
 SHIP
-  ↓
+   ↓
 REPEAT
 ```
 
-I learn best by turning ideas into working products, testing them, finding what breaks, and improving the result.
+I learn by turning ideas into working products, testing them, finding what breaks, and improving the result.
 
 ---
 
 ## 🎯 Current Focus
 
 - Building production-minded web applications
-- Exploring practical AI products
-- Improving full-stack engineering skills
+- Solving practical problems with software
+- Exploring useful AI products
+- Improving full-stack engineering
 - Designing better user experiences
 - Learning database architecture and security
-- Turning real problems into usable products
-- Building a portfolio around shipped work
-- Developing AERO as a creative project
+- Turning shipped projects into measurable products
 
 ---
 

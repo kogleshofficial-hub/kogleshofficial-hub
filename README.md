@@ -1,14 +1,23 @@
 # Koglesh R. Murugan 👋
 
-### 16-year-old developer from Malaysia building real-world products.
+### Builder • Full-Stack Web Developer • AI Product Maker • Creator
 
-I turn everyday problems into working web applications — from the first idea and interface to databases, AI, security, deployment, and iteration.
+I build **real, useful web products for real-world problems** — taking an idea from problem discovery and product design to implementation, testing, deployment, and iteration.
 
-> **Notice a problem. Build a solution. Put it in people's hands. Learn from what happens.**
+> **Find a real problem. Build the simplest useful solution. Ship it. Learn from real users.**
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📋 BeforeYouGo
+**Know what you need before you go.**
+
+A private checklist tool designed to help people prepare before appointments, trips, applications, and other real-world tasks. Users can create unlimited independent checklists, manage items, track completion, duplicate lists, and keep their data private to their browser workspace.
+
+**[Live app](https://beforeyougo-gray.vercel.app/) · [Source code](https://github.com/kogleshofficial-hub/beforeyougo)**
+
+`Next.js` `React` `TypeScript` `Vercel` `Local Storage` `SEO`
 
 ### 🌍 QueueWise
 **Know the queue before you go.**
@@ -22,7 +31,7 @@ A community-powered platform for discovering recent waiting-time information at 
 ### 🍱 FoodLoop
 **Rescue surplus food. Reduce waste.**
 
-A working food-rescue MVP connecting surplus-food listings with people who can request them, backed by authentication, database workflows, and access controls.
+A food-rescue platform concept connecting surplus-food listings with people who can request them, with database-backed workflows and access controls.
 
 **[Live app](https://food-loop-app.vercel.app/) · [Source code](https://github.com/kogleshofficial-hub/FoodLoop)**
 
@@ -35,59 +44,105 @@ An AI decision tool that turns an overwhelming situation into one concrete actio
 
 **[Live app](https://one-next-step.vercel.app/) · [Source code](https://github.com/kogleshofficial-hub/one-next-step)**
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Ollama`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `AI`
 
 ### 🔎 Truth Checker
 **Evidence before certainty.**
 
-An evidence-first claim investigation tool that retrieves web evidence, analyzes it with AI, and shows the reasoning and sources behind its conclusion.
+An evidence-first claim investigation tool designed to retrieve supporting web evidence and present a clearer, source-aware assessment.
 
 **[Live app](https://truth-checker-app.vercel.app/) · [Source code](https://github.com/kogleshofficial-hub/truth-checker)**
 
-`Next.js` `React` `TypeScript` `Tavily` `OpenRouter`
+`Next.js` `React` `TypeScript` `AI` `Web Research`
 
 ---
 
 ## 🛠️ What I Build
 
 - Full-stack web applications
-- AI-powered tools
-- Practical products for everyday problems
-- Responsive interfaces
-- Database-backed systems
-- Evidence-aware AI workflows
-- Products from idea → build → deployment
-
-## ⚡ Tech
-
-**Frontend:** Next.js · React · TypeScript · JavaScript · Tailwind CSS  
-**Backend & data:** Supabase · PostgreSQL · Authentication · Row Level Security  
-**AI:** AI APIs · structured outputs · prompt design · evidence retrieval  
-**Tools:** GitHub · Vercel · Cursor · OpenStreetMap · Canva · CapCut
+- AI-powered products
+- Practical tools for everyday problems
+- Responsive and accessible interfaces
+- Database-backed applications
+- Privacy-conscious user experiences
+- Products from **idea → design → code → test → deployment**
 
 ---
 
-## 🔨 How I Build
+## ⚡ Tech Stack
+
+**Frontend**  
+`Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS`
+
+**Backend & Data**  
+`Supabase` · `PostgreSQL` · `Authentication` · `Row Level Security`
+
+**AI & Research**  
+`AI APIs` · `Structured Outputs` · `Prompt Engineering` · `Web Research`
+
+**Development & Deployment**  
+`GitHub` · `Vercel` · `Cursor` · `OpenStreetMap`
+
+**Creative**  
+`Canva` · `CapCut` · Video Editing · Digital Design
+
+---
+
+## 🔨 My Build Loop
 
 ```text
-PROBLEM → IDEA → BUILD → TEST → BREAK → LEARN → IMPROVE → SHIP → REPEAT
+PROBLEM
+   ↓
+RESEARCH
+   ↓
+IDEA
+   ↓
+DESIGN
+   ↓
+BUILD
+   ↓
+TEST
+   ↓
+BREAK
+   ↓
+FIX
+   ↓
+SHIP
+   ↓
+LEARN
+   ↓
+IMPROVE
+   ↺
 ```
 
-I learn by shipping. Every project is an experiment in engineering, product thinking, design, and communication.
+I learn by **building and shipping**, not just following tutorials. Every project is an opportunity to improve my engineering, product thinking, UX, and ability to turn an idea into something people can actually use.
 
 ---
 
-## 🎯 Currently
+## 🎯 Currently Building
 
-- Building and improving real-world web products
-- Learning deeper full-stack engineering
-- Exploring practical AI applications
-- Getting projects in front of real users
-- Turning feedback into better products
+- Real-world web products that solve specific everyday problems
+- Practical AI applications
+- Better full-stack engineering skills
+- Products designed around actual user needs
+- A public portfolio of shipped work
 
 ---
 
-## 🌐 Find Me
+## 📊 Projects & Focus
+
+| Area | Focus |
+| --- | --- |
+| 🌐 Web | Full-stack products and responsive UX |
+| 🤖 AI | Useful AI features and decision tools |
+| 🗄️ Data | PostgreSQL, Supabase and secure data workflows |
+| 🚀 Deployment | Production deployments with GitHub + Vercel |
+| 🔍 Product | Finding problems worth solving |
+| 🎨 Design | Clean, modern and practical interfaces |
+
+---
+
+## 🌐 Connect
 
 **Portfolio:** https://koglesh-portfolio.vercel.app/  
 **LinkedIn:** https://www.linkedin.com/in/koglesh-r-murugan-020450430/  
@@ -97,10 +152,16 @@ I learn by shipping. Every project is an experiment in engineering, product thin
 
 ## 💡 Why I Build
 
-I don't want this profile to be a collection of tutorials.
+I don't want my GitHub to be a collection of unfinished tutorials or copied projects.
 
-I want it to show **execution** — problems becoming products, products being tested, and mistakes becoming improvements.
+I want it to document **execution**:
+
+**real problem → real product → real testing → real feedback → real improvement.**
+
+Some projects will fail. Some will need rebuilding. That's part of building.
 
 > **Build useful things. Keep learning. Keep shipping.**
 
-<sub>Built independently by Koglesh R. Murugan.</sub>
+---
+
+<sub>Built independently by Koglesh R. Murugan · Malaysia</sub>

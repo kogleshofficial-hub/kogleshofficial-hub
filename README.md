@@ -2,58 +2,104 @@
 
 ### Builder • Full-Stack Web Developer • AI Product Maker • Creator
 
-I build **real, useful web products for real-world problems** — taking an idea from problem discovery and product design to implementation, testing, deployment, and iteration.
+I build **real, useful software for real-world problems** — taking an idea from problem discovery and product design to implementation, testing, deployment, and iteration.
 
-> **Find a real problem. Build the simplest useful solution. Ship it. Learn from real users.**
+> **Find a real problem. Build the useful thing. Test it. Ship it. Learn. Repeat.**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship Project — GRIDPULSE
+
+### ⚡ See disruption before it becomes a blind spot.
+
+**GRIDPULSE** is an evidence-first infrastructure intelligence control plane. It correlates distributed telemetry, validates independent observations, and prepares a bounded evidence layer for AI-powered grid intelligence.
+
+**Live:** https://gridpulse-three.vercel.app/  
+**Source:** https://github.com/kogleshofficial-hub/GRIDPULSE
+
+**Architecture**
+
+```text
+HUMAN TELEMETRY
+      ↓
+POSTGRESQL VALIDATION
+      ↓
+AZURE MACHINE LEARNING
+      ↓
+RISK + CONFIDENCE
+      ↓
+MICROSOFT FOUNDRY
+      ↓
+GROUNDED EXPLANATION
+      ↓
+HUMAN DECISION
+```
+
+The product keeps an explicit evidence boundary:
+
+**OBSERVED → VALIDATED → PREDICTED → EXPLAINED**
+
+Observed data is evidence. Validation is corroboration. AI output is a prediction and explanation — not confirmation.
+
+Built with `Next.js` `PostgreSQL` `Azure Machine Learning` `Microsoft Foundry` `Vercel`
+
+---
+
+## 🌐 Featured Projects
 
 ### 📋 BeforeYouGo
 **Know what you need before you go.**
 
-A private checklist tool designed to help people prepare before appointments, trips, applications, and other real-world tasks. Users can create unlimited independent checklists, manage items, track completion, duplicate lists, and keep their data private to their browser workspace.
+A private checklist tool for preparing before appointments, trips, applications and other real-world tasks.
 
-**[Live app](https://beforeyougo-gray.vercel.app/) · [Source code](https://github.com/kogleshofficial-hub/beforeyougo)**
+https://beforeyougo-gray.vercel.app/ · https://github.com/kogleshofficial-hub/beforeyougo
 
 `Next.js` `React` `TypeScript` `Vercel` `Local Storage` `SEO`
 
 ### 🌍 QueueWise
 **Know the queue before you go.**
 
-A community-powered platform for discovering recent waiting-time information at real-world services such as banks, clinics, and government departments.
+A community-powered platform for discovering recent waiting-time information at real-world services.
 
-**[Live app](https://queuewise-app.vercel.app/) · [Source code](https://github.com/kogleshofficial-hub/queuewise)**
+https://queuewise-app.vercel.app/ · https://github.com/kogleshofficial-hub/queuewise
 
 `Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `OpenStreetMap`
 
 ### 🍱 FoodLoop
 **Rescue surplus food. Reduce waste.**
 
-A food-rescue platform concept connecting surplus-food listings with people who can request them, with database-backed workflows and access controls.
+A food-rescue platform connecting surplus-food listings with people who can request them, using database-backed workflows and access controls.
 
-**[Live app](https://food-loop-app.vercel.app/) · [Source code](https://github.com/kogleshofficial-hub/FoodLoop)**
+https://food-loop-app.vercel.app/ · https://github.com/kogleshofficial-hub/FoodLoop
 
 `Next.js` `React` `TypeScript` `Supabase` `PostgreSQL`
 
 ### 🧠 One Next Step
 **You don't need the whole plan. You need the next move.**
 
-An AI decision tool that turns an overwhelming situation into one concrete action instead of another giant to-do list.
+An AI decision experience designed to turn an overwhelming situation into one concrete next action.
 
-**[Live app](https://one-next-step.vercel.app/) · [Source code](https://github.com/kogleshofficial-hub/one-next-step)**
+https://one-next-step.vercel.app/ · https://github.com/kogleshofficial-hub/one-next-step
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `AI`
 
 ### 🔎 Truth Checker
 **Evidence before certainty.**
 
-An evidence-first claim investigation tool designed to retrieve supporting web evidence and present a clearer, source-aware assessment.
+An evidence-first claim investigation experience designed to make online information easier to examine and question.
 
-**[Live app](https://truth-checker-app.vercel.app/) · [Source code](https://github.com/kogleshofficial-hub/truth-checker)**
+https://truth-checker-app.vercel.app/ · https://github.com/kogleshofficial-hub/truth-checker
 
-`Next.js` `React` `TypeScript` `AI` `Web Research`
+`Next.js` `TypeScript` `AI` `Evidence`
+
+### 🎥 AERO
+**Build the challenge. Document the process.**
+
+A creator project focused on learning difficult skills, experimentation, storytelling and shipping content.
+
+https://www.youtube.com/@ItsAero_Official
+
+`YouTube` `Editing` `Storytelling` `Creative Technology`
 
 ---
 
@@ -61,6 +107,7 @@ An evidence-first claim investigation tool designed to retrieve supporting web e
 
 - Full-stack web applications
 - AI-powered products
+- Infrastructure and data-driven systems
 - Practical tools for everyday problems
 - Responsive and accessible interfaces
 - Database-backed applications
@@ -75,10 +122,10 @@ An evidence-first claim investigation tool designed to retrieve supporting web e
 `Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS`
 
 **Backend & Data**  
-`Supabase` · `PostgreSQL` · `Authentication` · `Row Level Security`
+`PostgreSQL` · `Supabase` · `Authentication` · `Row Level Security`
 
-**AI & Research**  
-`AI APIs` · `Structured Outputs` · `Prompt Engineering` · `Web Research`
+**AI & Cloud**  
+`Azure Machine Learning` · `Microsoft Foundry` · `AI APIs` · `Structured Outputs` · `Prompt Engineering`
 
 **Development & Deployment**  
 `GitHub` · `Vercel` · `Cursor` · `OpenStreetMap`
@@ -115,26 +162,27 @@ IMPROVE
    ↺
 ```
 
-I learn by **building and shipping**, not just following tutorials. Every project is an opportunity to improve my engineering, product thinking, UX, and ability to turn an idea into something people can actually use.
+I learn by **building and shipping**, not just following tutorials. Every project is an opportunity to improve engineering, product thinking, UX, reliability and the ability to turn an idea into something people can actually use.
 
 ---
 
 ## 🎯 Currently Building
 
-- Real-world web products that solve specific everyday problems
-- Practical AI applications
-- Better full-stack engineering skills
-- Products designed around actual user needs
+- **GRIDPULSE** — evidence-first infrastructure intelligence
+- Practical AI applications with explicit trust boundaries
+- Better full-stack engineering and production reliability
+- Products designed around actual problems
 - A public portfolio of shipped work
 
 ---
 
-## 📊 Projects & Focus
+## 📊 Focus
 
 | Area | Focus |
 | --- | --- |
 | 🌐 Web | Full-stack products and responsive UX |
-| 🤖 AI | Useful AI features and decision tools |
+| 🤖 AI | Useful AI features with grounded outputs |
+| 🏗️ Infrastructure | Telemetry, validation and operational intelligence |
 | 🗄️ Data | PostgreSQL, Supabase and secure data workflows |
 | 🚀 Deployment | Production deployments with GitHub + Vercel |
 | 🔍 Product | Finding problems worth solving |
@@ -145,6 +193,7 @@ I learn by **building and shipping**, not just following tutorials. Every projec
 ## 🌐 Connect
 
 **Portfolio:** https://koglesh-portfolio.vercel.app/  
+**GitHub:** https://github.com/kogleshofficial-hub  
 **LinkedIn:** https://www.linkedin.com/in/koglesh-r-murugan-020450430/  
 **YouTube / AERO:** https://www.youtube.com/@ItsAero_Official
 
@@ -164,4 +213,4 @@ Some projects will fail. Some will need rebuilding. That's part of building.
 
 ---
 
-<sub>Built independently by Koglesh R. Murugan · Malaysia</sub>
+<sub>Built independently by Koglesh R. Murugan · Malaysia · 2026</sub>

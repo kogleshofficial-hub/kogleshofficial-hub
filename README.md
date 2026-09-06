@@ -1,23 +1,51 @@
 # Koglesh R. Murugan 👋
 
-### Builder • Full-Stack Web Developer • AI Product Maker • Creator
+### Independent Builder • Full-Stack Web Developer • AI Product Maker • Creator
 
-I build **real, useful software for real-world problems** — taking an idea from problem discovery and product design to implementation, testing, deployment, and iteration.
+I build **real, useful software for real-world problems** — taking ideas from problem discovery and product design to implementation, testing, deployment, and iteration.
 
 > **Find a real problem. Build the useful thing. Test it. Ship it. Learn. Repeat.**
 
 ---
 
-## 🚀 Flagship Project — GRIDPULSE
+## 🧠 Current Build — SYNAPSE
 
-### ⚡ See disruption before it becomes a blind spot.
+### Turn workload into a plan you can actually follow.
+
+**SYNAPSE** is a local-first workload planner that turns deadlines, estimated effort, priority, and realistic available time into a deterministic seven-day plan.
+
+**Live:** https://synapse-7ldp5tfhy-kogleshofficial-hubs-projects.vercel.app/  
+**Source:** https://github.com/kogleshofficial-hub/synapse  
+**Competition:** Global Innovation Build Challenge V2
+
+**Core loop**
+
+```text
+CAPTURE
+  ↓
+UNDERSTAND
+  ↓
+ACT
+  ↓
+RECALCULATE
+```
+
+SYNAPSE can split large tasks across days, surface the next task, explain why it deserves attention, show workload pressure, flag work that cannot fit available capacity, and recalculate after completed work.
+
+The planning engine is deterministic TypeScript logic running in the browser. Workload data is stored locally, with no SYNAPSE backend required for the core experience.
+
+Built with `Next.js` `React` `TypeScript` `CSS` `Local Storage` `Browser APIs` `Vercel`
+
+---
+
+## ⚡ Flagship System — GRIDPULSE
+
+### See disruption before it becomes a blind spot.
 
 **GRIDPULSE** is an evidence-first infrastructure intelligence control plane. It correlates distributed telemetry, validates independent observations, and prepares a bounded evidence layer for AI-powered grid intelligence.
 
 **Live:** https://gridpulse-three.vercel.app/  
 **Source:** https://github.com/kogleshofficial-hub/GRIDPULSE
-
-**Architecture**
 
 ```text
 HUMAN TELEMETRY
@@ -45,7 +73,7 @@ Built with `Next.js` `PostgreSQL` `Azure Machine Learning` `Microsoft Foundry` `
 
 ---
 
-## 🌐 Featured Projects
+## 🌐 Selected Projects
 
 ### 📋 BeforeYouGo
 **Know what you need before you go.**
@@ -54,7 +82,7 @@ A private checklist tool for preparing before appointments, trips, applications 
 
 https://beforeyougo-gray.vercel.app/ · https://github.com/kogleshofficial-hub/beforeyougo
 
-`Next.js` `React` `TypeScript` `Vercel` `Local Storage` `SEO`
+`Next.js` `React` `TypeScript` `Local Storage` `SEO`
 
 ### 🌍 QueueWise
 **Know the queue before you go.**
@@ -68,7 +96,7 @@ https://queuewise-app.vercel.app/ · https://github.com/kogleshofficial-hub/queu
 ### 🍱 FoodLoop
 **Rescue surplus food. Reduce waste.**
 
-A food-rescue platform connecting surplus-food listings with people who can request them, using database-backed workflows and access controls.
+A food-rescue platform connecting surplus-food listings with people who can request them through database-backed workflows.
 
 https://food-loop-app.vercel.app/ · https://github.com/kogleshofficial-hub/FoodLoop
 
@@ -106,7 +134,7 @@ https://www.youtube.com/@ItsAero_Official
 ## 🛠️ What I Build
 
 - Full-stack web applications
-- AI-powered products
+- AI-powered products with clear trust boundaries
 - Infrastructure and data-driven systems
 - Practical tools for everyday problems
 - Responsive and accessible interfaces
@@ -116,7 +144,7 @@ https://www.youtube.com/@ItsAero_Official
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Tech Stack
 
 **Frontend**  
 `Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS`
@@ -135,7 +163,7 @@ https://www.youtube.com/@ItsAero_Official
 
 ---
 
-## 🔨 My Build Loop
+## 🔨 Build Loop
 
 ```text
 PROBLEM
@@ -168,10 +196,10 @@ I learn by **building and shipping**, not just following tutorials. Every projec
 
 ## 🎯 Currently Building
 
+- **SYNAPSE** — local-first workload intelligence and actionable planning
 - **GRIDPULSE** — evidence-first infrastructure intelligence
 - Practical AI applications with explicit trust boundaries
 - Better full-stack engineering and production reliability
-- Products designed around actual problems
 - A public portfolio of shipped work
 
 ---
@@ -182,8 +210,9 @@ I learn by **building and shipping**, not just following tutorials. Every projec
 | --- | --- |
 | 🌐 Web | Full-stack products and responsive UX |
 | 🤖 AI | Useful AI features with grounded outputs |
+| 🧠 Planning | Workload, constraints and next-action systems |
 | 🏗️ Infrastructure | Telemetry, validation and operational intelligence |
-| 🗄️ Data | PostgreSQL, Supabase and secure data workflows |
+| 🗄️ Data | PostgreSQL, Supabase and secure workflows |
 | 🚀 Deployment | Production deployments with GitHub + Vercel |
 | 🔍 Product | Finding problems worth solving |
 | 🎨 Design | Clean, modern and practical interfaces |

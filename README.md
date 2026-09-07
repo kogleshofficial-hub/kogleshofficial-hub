@@ -8,7 +8,34 @@ I build **real, useful software for real-world problems** — taking ideas from 
 
 ---
 
-## 🧠 Current Build — SYNAPSE
+## 🚀 Latest Build — PACE
+
+### Academic workload, made realistic.
+
+**PACE** is a multi-user student workload planner built around a simple question: **what should I work on next, and can I realistically finish everything before it is due?**
+
+**Live:** https://pace-nu-seven.vercel.app/  
+**Source:** https://github.com/kogleshofficial-hub/PACE  
+**Competition:** CSC Back-to-School Hackathon
+
+PACE combines:
+- assignments and subject context
+- due dates
+- estimated effort
+- priority
+- daily study capacity
+- workload pressure
+- seven-day planning
+- explainable next-task recommendations
+- per-user authentication and data isolation
+
+The current production build uses **Appwrite** for authentication and database-backed workload data, with row-level permissions so each signed-in student only receives their own tasks.
+
+Built with `Next.js` `React` `TypeScript` `Appwrite` `Vercel` `GitHub`
+
+---
+
+## 🧠 Workload Intelligence — SYNAPSE
 
 ### Turn workload into a plan you can actually follow.
 
@@ -17,24 +44,6 @@ I build **real, useful software for real-world problems** — taking ideas from 
 **Live:** https://synapse-7ldp5tfhy-kogleshofficial-hubs-projects.vercel.app/  
 **Source:** https://github.com/kogleshofficial-hub/synapse  
 **Competition:** Global Innovation Build Challenge V2
-
-**Core loop**
-
-```text
-CAPTURE
-  ↓
-UNDERSTAND
-  ↓
-ACT
-  ↓
-RECALCULATE
-```
-
-SYNAPSE can split large tasks across days, surface the next task, explain why it deserves attention, show workload pressure, flag work that cannot fit available capacity, and recalculate after completed work.
-
-The planning engine is deterministic TypeScript logic running in the browser. Workload data is stored locally, with no SYNAPSE backend required for the core experience.
-
-Built with `Next.js` `React` `TypeScript` `CSS` `Local Storage` `Browser APIs` `Vercel`
 
 ---
 
@@ -47,30 +56,6 @@ Built with `Next.js` `React` `TypeScript` `CSS` `Local Storage` `Browser APIs` `
 **Live:** https://gridpulse-three.vercel.app/  
 **Source:** https://github.com/kogleshofficial-hub/GRIDPULSE
 
-```text
-HUMAN TELEMETRY
-      ↓
-POSTGRESQL VALIDATION
-      ↓
-AZURE MACHINE LEARNING
-      ↓
-RISK + CONFIDENCE
-      ↓
-MICROSOFT FOUNDRY
-      ↓
-GROUNDED EXPLANATION
-      ↓
-HUMAN DECISION
-```
-
-The product keeps an explicit evidence boundary:
-
-**OBSERVED → VALIDATED → PREDICTED → EXPLAINED**
-
-Observed data is evidence. Validation is corroboration. AI output is a prediction and explanation — not confirmation.
-
-Built with `Next.js` `PostgreSQL` `Azure Machine Learning` `Microsoft Foundry` `Vercel`
-
 ---
 
 ## 🌐 Selected Projects
@@ -82,16 +67,12 @@ A private checklist tool for preparing before appointments, trips, applications 
 
 https://beforeyougo-gray.vercel.app/ · https://github.com/kogleshofficial-hub/beforeyougo
 
-`Next.js` `React` `TypeScript` `Local Storage` `SEO`
-
 ### 🌍 QueueWise
 **Know the queue before you go.**
 
 A community-powered platform for discovering recent waiting-time information at real-world services.
 
 https://queuewise-app.vercel.app/ · https://github.com/kogleshofficial-hub/queuewise
-
-`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `OpenStreetMap`
 
 ### 🍱 FoodLoop
 **Rescue surplus food. Reduce waste.**
@@ -100,16 +81,12 @@ A food-rescue platform connecting surplus-food listings with people who can requ
 
 https://food-loop-app.vercel.app/ · https://github.com/kogleshofficial-hub/FoodLoop
 
-`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL`
-
 ### 🧠 One Next Step
 **You don't need the whole plan. You need the next move.**
 
 An AI decision experience designed to turn an overwhelming situation into one concrete next action.
 
 https://one-next-step.vercel.app/ · https://github.com/kogleshofficial-hub/one-next-step
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `AI`
 
 ### 🔎 Truth Checker
 **Evidence before certainty.**
@@ -118,16 +95,12 @@ An evidence-first claim investigation experience designed to make online informa
 
 https://truth-checker-app.vercel.app/ · https://github.com/kogleshofficial-hub/truth-checker
 
-`Next.js` `TypeScript` `AI` `Evidence`
-
 ### 🎥 AERO
 **Build the challenge. Document the process.**
 
 A creator project focused on learning difficult skills, experimentation, storytelling and shipping content.
 
 https://www.youtube.com/@ItsAero_Official
-
-`YouTube` `Editing` `Storytelling` `Creative Technology`
 
 ---
 
@@ -150,7 +123,7 @@ https://www.youtube.com/@ItsAero_Official
 `Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS`
 
 **Backend & Data**  
-`PostgreSQL` · `Supabase` · `Authentication` · `Row Level Security`
+`PostgreSQL` · `Supabase` · `Appwrite` · `Authentication` · `Row Level Security`
 
 **AI & Cloud**  
 `Azure Machine Learning` · `Microsoft Foundry` · `AI APIs` · `Structured Outputs` · `Prompt Engineering`
@@ -166,28 +139,7 @@ https://www.youtube.com/@ItsAero_Official
 ## 🔨 Build Loop
 
 ```text
-PROBLEM
-   ↓
-RESEARCH
-   ↓
-IDEA
-   ↓
-DESIGN
-   ↓
-BUILD
-   ↓
-TEST
-   ↓
-BREAK
-   ↓
-FIX
-   ↓
-SHIP
-   ↓
-LEARN
-   ↓
-IMPROVE
-   ↺
+PROBLEM → RESEARCH → IDEA → DESIGN → BUILD → TEST → BREAK → FIX → SHIP → LEARN → IMPROVE
 ```
 
 I learn by **building and shipping**, not just following tutorials. Every project is an opportunity to improve engineering, product thinking, UX, reliability and the ability to turn an idea into something people can actually use.
@@ -196,26 +148,11 @@ I learn by **building and shipping**, not just following tutorials. Every projec
 
 ## 🎯 Currently Building
 
-- **SYNAPSE** — local-first workload intelligence and actionable planning
+- **PACE** — academic workload planning with multi-user data isolation
+- **SYNAPSE** — local-first workload intelligence
 - **GRIDPULSE** — evidence-first infrastructure intelligence
-- Practical AI applications with explicit trust boundaries
-- Better full-stack engineering and production reliability
+- New AI/product systems for upcoming student hackathons
 - A public portfolio of shipped work
-
----
-
-## 📊 Focus
-
-| Area | Focus |
-| --- | --- |
-| 🌐 Web | Full-stack products and responsive UX |
-| 🤖 AI | Useful AI features with grounded outputs |
-| 🧠 Planning | Workload, constraints and next-action systems |
-| 🏗️ Infrastructure | Telemetry, validation and operational intelligence |
-| 🗄️ Data | PostgreSQL, Supabase and secure workflows |
-| 🚀 Deployment | Production deployments with GitHub + Vercel |
-| 🔍 Product | Finding problems worth solving |
-| 🎨 Design | Clean, modern and practical interfaces |
 
 ---
 

@@ -1,118 +1,105 @@
 # Koglesh R. Murugan 👋
 
-### Independent Builder • Full-Stack Web Developer • AI Product Maker • Creator
+### Independent Builder · Full-Stack Web Developer · Student · Creator
 
-I build **real, useful software for real-world problems** — taking ideas from problem discovery and product design to implementation, testing, deployment, and iteration.
+I build and ship **real software for real-world problems** — from product idea and UX to engineering, testing, deployment, and iteration.
 
 > **Find a real problem. Build the useful thing. Test it. Ship it. Learn. Repeat.**
 
 ---
 
-## 🚀 Latest Build — PACE
+## 🔥 Currently Building — MIRROR
 
-### Academic workload, made realistic.
+### See what a decision changes.
 
-**PACE** is a multi-user student workload planner built around a simple question: **what should I work on next, and can I realistically finish everything before it is due?**
+**MIRROR** is a deterministic simulation engine for measurable, resource-constrained situations.
 
-**Live:** https://pace-nu-seven.vercel.app/  
-**Source:** https://github.com/kogleshofficial-hub/PACE  
-**Competition:** CSC Back-to-School Hackathon
+Describe a situation in ordinary language. MIRROR extracts the measurable parts, builds a structured model, runs a local simulation, and shows how queues, capacity, throughput, utilization, events, and bottlenecks change when the conditions change.
 
-PACE combines:
-- assignments and subject context
-- due dates
-- estimated effort
-- priority
-- daily study capacity
-- workload pressure
-- seven-day planning
-- explainable next-task recommendations
-- per-user authentication and data isolation
+**No AI. No API. No hidden inference.**
 
-The current production build uses **Appwrite** for authentication and database-backed workload data, with row-level permissions so each signed-in student only receives their own tasks.
+**Live:** https://mirror-simulation-engine.vercel.app/  
+**Source:** https://github.com/kogleshofficial-hub/mirror-simulation-engine  
+**Hackathon:** LUMA Hackathon Fall 2026
 
-Built with `Next.js` `React` `TypeScript` `Appwrite` `Vercel` `GitHub`
+```text
+SITUATION
+   ↓
+DETERMINISTIC PARSER
+   ↓
+STRUCTURED MODEL
+   ↓
+SIMULATION ENGINE
+   ↓
+STATE + METRICS
+   ↓
+WHAT-IF CONSEQUENCES
+```
 
----
-
-## 🧠 Workload Intelligence — SYNAPSE
-
-### Turn workload into a plan you can actually follow.
-
-**SYNAPSE** is a local-first workload planner that turns deadlines, estimated effort, priority, and realistic available time into a deterministic seven-day plan.
-
-**Live:** https://synapse-7ldp5tfhy-kogleshofficial-hubs-projects.vercel.app/  
-**Source:** https://github.com/kogleshofficial-hub/synapse  
-**Competition:** Global Innovation Build Challenge V2
+Built with `Next.js` `React` `TypeScript` `CSS`
 
 ---
 
-## ⚡ Flagship System — GRIDPULSE
+## 🚀 Selected Builds
 
-### See disruption before it becomes a blind spot.
+### ⚡ GRIDPULSE
+**See disruption before it becomes a blind spot.**
 
-**GRIDPULSE** is an evidence-first infrastructure intelligence control plane. It correlates distributed telemetry, validates independent observations, and prepares a bounded evidence layer for AI-powered grid intelligence.
+An evidence-first infrastructure intelligence control plane designed to correlate distributed telemetry and validate independent observations.
 
 **Live:** https://gridpulse-three.vercel.app/  
 **Source:** https://github.com/kogleshofficial-hub/GRIDPULSE
 
----
+### 📚 PACE
+**Academic workload, made realistic.**
 
-## 🌐 Selected Projects
+A multi-user student workload planner that combines assignments, deadlines, estimated effort, priority, study capacity, and workload pressure into a practical seven-day plan.
 
-### 📋 BeforeYouGo
-**Know what you need before you go.**
+**Live:** https://pace-nu-seven.vercel.app/  
+**Source:** https://github.com/kogleshofficial-hub/PACE
 
-A private checklist tool for preparing before appointments, trips, applications and other real-world tasks.
+### 🧠 SYNAPSE
+**Turn workload into a plan you can actually follow.**
 
-https://beforeyougo-gray.vercel.app/ · https://github.com/kogleshofficial-hub/beforeyougo
+A local-first workload planner built around deterministic planning from deadlines, effort, priority, and available time.
 
-### 🌍 QueueWise
-**Know the queue before you go.**
-
-A community-powered platform for discovering recent waiting-time information at real-world services.
-
-https://queuewise-app.vercel.app/ · https://github.com/kogleshofficial-hub/queuewise
-
-### 🍱 FoodLoop
-**Rescue surplus food. Reduce waste.**
-
-A food-rescue platform connecting surplus-food listings with people who can request them through database-backed workflows.
-
-https://food-loop-app.vercel.app/ · https://github.com/kogleshofficial-hub/FoodLoop
-
-### 🧠 One Next Step
-**You don't need the whole plan. You need the next move.**
-
-An AI decision experience designed to turn an overwhelming situation into one concrete next action.
-
-https://one-next-step.vercel.app/ · https://github.com/kogleshofficial-hub/one-next-step
+**Live:** https://synapse-7ldp5tfhy-kogleshofficial-hubs-projects.vercel.app/  
+**Source:** https://github.com/kogleshofficial-hub/synapse
 
 ### 🔎 Truth Checker
 **Evidence before certainty.**
 
 An evidence-first claim investigation experience designed to make online information easier to examine and question.
 
-https://truth-checker-app.vercel.app/ · https://github.com/kogleshofficial-hub/truth-checker
+**Live:** https://truth-checker-app.vercel.app/  
+**Source:** https://github.com/kogleshofficial-hub/truth-checker
 
-### 🎥 AERO
-**Build the challenge. Document the process.**
+### 🌱 FoodLoop
+**Rescue surplus food. Reduce waste.**
 
-A creator project focused on learning difficult skills, experimentation, storytelling and shipping content.
+A database-backed food-rescue platform connecting surplus-food listings with people who can request them.
 
-https://www.youtube.com/@ItsAero_Official
+**Live:** https://food-loop-app.vercel.app/  
+**Source:** https://github.com/kogleshofficial-hub/FoodLoop
+
+### 📋 BeforeYouGo
+**Know what you need before you go.**
+
+A private checklist tool for appointments, trips, applications, and other real-world tasks.
+
+**Live:** https://beforeyougo-gray.vercel.app/  
+**Source:** https://github.com/kogleshofficial-hub/beforeyougo
 
 ---
 
 ## 🛠️ What I Build
 
 - Full-stack web applications
-- AI-powered products with clear trust boundaries
-- Infrastructure and data-driven systems
+- Deterministic systems and simulation tools
+- AI-powered products with explicit trust boundaries
+- Data-driven and database-backed applications
 - Practical tools for everyday problems
 - Responsive and accessible interfaces
-- Database-backed applications
-- Privacy-conscious user experiences
 - Products from **idea → design → code → test → deployment**
 
 ---
@@ -125,8 +112,8 @@ https://www.youtube.com/@ItsAero_Official
 **Backend & Data**  
 `PostgreSQL` · `Supabase` · `Appwrite` · `Authentication` · `Row Level Security`
 
-**AI & Cloud**  
-`Azure Machine Learning` · `Microsoft Foundry` · `AI APIs` · `Structured Outputs` · `Prompt Engineering`
+**AI & Intelligent Systems**  
+`AI APIs` · `Structured Outputs` · `Prompt Engineering` · `Azure Machine Learning` · `Microsoft Foundry`
 
 **Development & Deployment**  
 `GitHub` · `Vercel` · `Cursor` · `OpenStreetMap`
@@ -136,30 +123,31 @@ https://www.youtube.com/@ItsAero_Official
 
 ---
 
-## 🔨 Build Loop
+## 🔨 How I Build
 
 ```text
 PROBLEM → RESEARCH → IDEA → DESIGN → BUILD → TEST → BREAK → FIX → SHIP → LEARN → IMPROVE
 ```
 
-I learn by **building and shipping**, not just following tutorials. Every project is an opportunity to improve engineering, product thinking, UX, reliability and the ability to turn an idea into something people can actually use.
+I learn by **building and shipping**, not just following tutorials.
+
+Every project is an opportunity to improve engineering, product thinking, UX, reliability, and the ability to turn an idea into something people can actually use.
 
 ---
 
-## 🎯 Currently Building
+## 🎯 Current Focus
 
-- **PACE** — academic workload planning with multi-user data isolation
-- **SYNAPSE** — local-first workload intelligence
-- **GRIDPULSE** — evidence-first infrastructure intelligence
-- New AI/product systems for upcoming student hackathons
-- A public portfolio of shipped work
+- **MIRROR** — deterministic decision simulation
+- **GRIDPULSE** — infrastructure intelligence
+- **PACE** — realistic academic workload planning
+- Building stronger products for student hackathons
+- Improving engineering depth, UX, reliability, and technical communication
 
 ---
 
-## 🌐 Connect
+## 🌐 Find Me
 
 **Portfolio:** https://koglesh-portfolio.vercel.app/  
-**GitHub:** https://github.com/kogleshofficial-hub  
 **LinkedIn:** https://www.linkedin.com/in/koglesh-r-murugan-020450430/  
 **YouTube / AERO:** https://www.youtube.com/@ItsAero_Official
 

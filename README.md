@@ -8,7 +8,7 @@ I build and ship **real software for real-world problems** — from product idea
 
 ---
 
-## 🔥 Currently Building — MIRROR
+## 🔥 Featured Build — MIRROR
 
 ### See what a decision changes.
 
